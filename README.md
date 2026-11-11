@@ -4,6 +4,8 @@ Business generalist who builds with AI. 10+ years managing client portfolios in 
 
 I'm not a traditional software engineer: I design products, ship them with AI tools (Claude Code, Cursor) and learn the stack along the way.
 
+How to reach me: oriolforcasa@gmail.com
+
 ## Projects
 
 **[TimesRun Club](https://timesrun.club)** — Find and join group runs in Barcelona. Create a run on a public pin, browse runs from others, join in one tap. Bilingual (ES/EN) progressive web app.
@@ -20,4 +22,4 @@ Claude Code · Cursor · VS Code · Git/GitHub · React · Next.js · TypeScript
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/oriol-forcada-santilari-b2220235/)
- · oriolforcasa@gmail.com · Barcelona
+ 
