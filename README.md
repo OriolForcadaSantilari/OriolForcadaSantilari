@@ -19,4 +19,5 @@ I'm not a traditional software engineer: I design products, ship them with AI to
 Claude Code · Cursor · VS Code · Git/GitHub · React · Next.js · TypeScript · Tailwind CSS · Expo · Netlify · Vercel · Supabase · Convex
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/oriol-forcada-santilari-b2220235/) · oriolforcasa@gmail.com · Barcelona
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/oriol-forcada-santilari-b2220235/)
+ · oriolforcasa@gmail.com · Barcelona
